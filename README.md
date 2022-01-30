@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @W1lfr33d0m
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Pyrhon/Django
+- 🌱 I’m currently learning Python/Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
